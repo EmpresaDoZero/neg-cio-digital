@@ -1,1 +1,1 @@
-# neg-cio-digital
+# negócio-digital
